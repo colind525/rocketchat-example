@@ -1,6 +1,6 @@
 {
   "id": "app",
-  "image": "rocket.chat:0.66",
+  "image": "rocket.chat:1.0.0-beta.2",
   "env": {
     "MONGO_URL": "mongodb://db:27017/rocketchat",
     "DEPLOY_PLATFORM": "wedeploy"
